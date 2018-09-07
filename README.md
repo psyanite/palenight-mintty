@@ -1,5 +1,7 @@
 # 🌃 palenight-mintty
 
+The beautiful exquisite palenight theme for Mintty / Git Bash
+
 ![meow](https://github.com/psyanite/palenight-mintty/blob/master/color-test-output.png)
 
 1. Copy `palenight` and `color-test.sh` into `~/.mintty/themes/`
